@@ -1,0 +1,9 @@
+friends = ["Qari", "Khalid", "Izaz", "Ilyas", "Hikmat", "Saeed", "Abid", "Mohib", "Aziz"]
+print(frineds[0])
+print(frineds[1])
+print(frineds[2])
+print(frineds[3])
+print(frineds[4])
+print(frineds[5])
+print(frineds[6])
+print(frineds[7])
